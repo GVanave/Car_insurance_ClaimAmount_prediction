@@ -21,7 +21,7 @@ The dataset used in this project contains information about various factors rela
 
 2. Run the Jupyter Notebook:
     ```
-    jupyter notebook car_insurance_claim_prediction.ipynb
+    jupyter notebook price_prediction_model.ipynb
     ```
 
 5. Follow the instructions provided in the notebook to preprocess the data, train the model, evaluate its performance, and make predictions.
