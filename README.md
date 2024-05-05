@@ -1,1 +1,1 @@
-# Car_insurance_ClaimAmount_prediction
+# Car_insurance_claim_prediction
