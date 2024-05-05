@@ -16,7 +16,7 @@ The dataset used in this project contains information about various factors rela
 ## Usage
 1. Clone the repository:
     ```
-    git clone https://github.com/your_username/car_insurance_claim_prediction.git 
+    https://github.com/GVanave/Car_insurance_ClaimAmount_prediction.git
     ```
 
 2. Run the Jupyter Notebook:
